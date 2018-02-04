@@ -16,7 +16,7 @@ CODE
 SL500 Python Library - rfid_sl500.py
 
 Example Code        
-Read Block0 16 Bytes data - read_block0.py
+Read Block0 16 Bytes data - read_block0.py        
 Read loop - loop.py
 
 
