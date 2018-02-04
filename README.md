@@ -28,8 +28,8 @@ https://raspberrypi4u.blogspot.com
 https://androidcontrol.blogspot.com
 
 email : info@softpowergroup.net 
-amphancm@gmail.com
+amphancm@gmail.com      
 Tel. +6681-6452400 ( Thailand )
  
-Google+  https://plus.google.com/+SoftpowergroupNetThailand/
+Google+  https://plus.google.com/+SoftpowergroupNetThailand/        
 Facebook : https://www.facebook.com/softpowergroup
